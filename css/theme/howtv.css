@@ -134,7 +134,7 @@ body {
   color: darkred; }
 
 .reveal {
-  background-image: url("/img/slide_back.jpg");
+  background-image: url("../../img/slide_back.jpg");
   background-position: center bottom;
   background-repeat: no-repeat; }
   .reveal header {

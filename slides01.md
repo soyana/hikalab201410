@@ -1,8 +1,8 @@
 # スタートアップが爆速開発するためのTips
 
-<small>ヒカラボ  2014/10/9</small>
+Howtelevision, Inc. / Yoshiyuki Onishi
 
-<small>Howtelevision, Inc. / Yoshiyuki Onishi</small>
+ヒカラボ  2014/10/9
 
 ---
 
