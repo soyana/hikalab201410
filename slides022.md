@@ -1,15 +1,13 @@
-## 2011年6月　サービス側にも CakePHP を導入
-
-- ただ、これまでに WordPress のカスタマイズで実装したページをすべて書き直している時間などない
-- これまで開発したコードベースについてはそのまま活かす
-- 今後新たに開発する機能やページについては、CakePHP で実装する
-- この頃は v1.3
-
----
-
 ## フロントに nginx でリバースプロキシ
 
 ![画像](img/cakephp-and-wordpress.png)
+<!-- .element: class="fragment" data-fragment-index="1" -->
+
+- これまで開発したコードベースについてはそのまま活かす
+<!-- .element: class="fragment" data-fragment-index="2" -->
+
+- 今後新たに開発する機能やページについては、CakePHP で実装する
+<!-- .element: class="fragment" data-fragment-index="3" -->
 
 ---
 
@@ -70,9 +68,16 @@ server {
 ## 背景
 
 - 2011年10月　CakePHP2 がリリースされた
+<!-- .element: class="fragment" data-fragment-index="1" -->
+
 - 2011/10 〜 2012.2　1.x で実装されたアプリケーションをメンテし続ける日々
+<!-- .element: class="fragment" data-fragment-index="2" -->
+
 - 機能要求、バクfix もたんまり
+<!-- .element: class="fragment" data-fragment-index="3" -->
+
 - CakePHP1 で開発した機能をすべて CakePHP2 で書き直している時間などない
+<!-- .element: class="fragment" data-fragment-index="4" -->
 
 ---
 

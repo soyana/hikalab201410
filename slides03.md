@@ -31,6 +31,9 @@
     - 「ちょっと表出ろや (ﾟДﾟ#)ｶﾞﾀｯ」
 <!-- .element: class="fragment" data-fragment-index="7" -->
 
+こういうことはなくなった
+<!-- .element: class="fragment" data-fragment-index="8" -->
+
 ---
 
 ## 問題点

@@ -57,9 +57,16 @@
 ## 2010年9月　会員制立ち上げ期
 
 - 開発期間1ヶ月
+<!-- .element: class="fragment" data-fragment-index="1" -->
+
 - メインプログラマは、昨日まで Web デザイナー
+<!-- .element: class="fragment" data-fragment-index="2" -->
+
 - セキュリティ怖い
+<!-- .element: class="fragment" data-fragment-index="3" -->
+
 - ユーザ管理/認証まわりは、WordPress のユーザ管理機構にのっかることに
+<!-- .element: class="fragment" data-fragment-index="4" -->
 
 ---
 
@@ -82,23 +89,51 @@
 ## なんとか完成し、リリース！
 
 - 順調に登録されているのをみてほっと胸をなでおろす
-- マイページがあるだけで会員向けの機能など何一つなかった
+- 会員登録するとできること
+<!-- .element: class="fragment" data-fragment-index="1" -->
+
+    - マイページだけ
+<!-- .element: class="fragment" data-fragment-index="2" -->
+
+- 日々増えていく会員登録
+<!-- .element: class="fragment" data-fragment-index="3" -->
+
 - これまでのリピーターからの期待は高かった！
-- 会員登録が日々増えていく
-- ユーザからの期待は高い
-- 使ってもらえる何かをはやく提供しなければ
+<!-- .element: class="fragment" data-fragment-index="4" -->
+
+- ユーザに使ってもらえるものをはやく提供しなければ
+<!-- .element: class="fragment" data-fragment-index="5" -->
 
 ---
 
 ## この頃の開発環境
 
 - 開発環境: レンタルサーバ上に staging 環境
+<!-- .element: class="fragment" data-fragment-index="1" -->
+
     - http://xxx.xxx.jp/staging/
-- デプロイ: SCP でファイルアップロード
-- テスト: 目視で動作かくにん！よかった
-- ソースコード管理: (お察しください)
-- 社内コミュニケーション: Yammer
+<!-- .element: class="fragment" data-fragment-index="2" -->
+
+- デプロイ
+<!-- .element: class="fragment" data-fragment-index="3" -->
+
+    - SCP でファイルアップロード
+<!-- .element: class="fragment" data-fragment-index="4" -->
+
+- テスト
+<!-- .element: class="fragment" data-fragment-index="5" -->
+
+    - 目視で動作かくにん！よかった
+<!-- .element: class="fragment" data-fragment-index="6" -->
+
+- ソースコード管理
+<!-- .element: class="fragment" data-fragment-index="7" -->
+
+    - (お察しください)
+<!-- .element: class="fragment" data-fragment-index="8" -->
+
 - DBの日次バックアップだけはとっていた
+<!-- .element: class="fragment" data-fragment-index="9" -->
 
 ---
 

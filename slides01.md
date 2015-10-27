@@ -15,6 +15,7 @@ Howtelevision, Inc. / Yoshiyuki Onishi
 
 ![画像](img/onishiprofile.jpg)
 ![画像](img/angry_bird.png)
+<!-- .element: class="fragment" data-fragment-index="1" -->
 
 ---
 
